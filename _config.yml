@@ -1,6 +1,19 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Shashi Kiran C </p>
+logo: /assets/img/download.png
+
+description:
+  <p align="center">
+  <a href="https://drive.google.com/file/d/1-YOR9s0Q9C9TD-xk-Anv01knvW5dfY9M/view?usp=sharing">Resume</a> |
+  <a href="https://www.linkedin.com/in/shashikiranc/">LinkedIn</a> |
+  <a href="https://github.com/kiransview">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  Worked with TCS Data Science and analytics team.
+  Working in Retail domain for 2 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
